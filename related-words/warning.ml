@@ -1,0 +1,25 @@
+admonition
+cautionary
+admonitory
+dissuasive
+monitory
+exemplary
+word of advice
+alert
+alerting
+cautioning
+advising
+alerts
+notice
+reminder
+caution
+alarm
+threat
+alarms
+ultimatum
+notification
+message
+danger
+signal
+forecast
+signals

@@ -1,0 +1,25 @@
+pupil
+scholar
+educatee
+scholarly person
+undergraduate
+university
+school
+campus
+academic
+graduate
+college
+classmate
+cadet
+pupils
+alumnus
+schools
+education
+learner
+sophomore
+studying
+schoolgirl
+schoolchild
+mentee
+schoolboy
+journalism

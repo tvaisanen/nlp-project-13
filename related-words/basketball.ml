@@ -1,0 +1,25 @@
+basketball game
+football
+nba
+league
+player
+team
+sneaker
+ball
+basket
+shoe
+trainer
+balloon
+fiba
+volleyball
+soccer
+softball
+tennis
+hockey
+lacrosse
+baseball
+athletic
+wnba
+gymnastics
+coach
+varsity

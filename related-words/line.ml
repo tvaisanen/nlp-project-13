@@ -1,0 +1,25 @@
+seam
+pipeline
+demarcation
+wrinkle
+draw
+crease
+channel
+transmission line
+crinkle
+business
+furrow
+cable
+bloodline
+course
+pedigree
+delineate
+lineage
+tune
+outline
+contrast
+air
+strain
+note
+descent
+blood

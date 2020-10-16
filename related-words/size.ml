@@ -1,0 +1,25 @@
+size of it
+height
+larger
+width
+small
+thickness
+dimensions
+length
+diameter
+large
+scale
+footprint
+smallness
+wingspan
+density
+scope
+proportions
+amount
+stature
+quantity
+breadth
+vastness
+capacity
+immensity
+number

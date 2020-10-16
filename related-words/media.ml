@@ -1,0 +1,25 @@
+mass media
+press
+journalists
+newspapers
+news
+television
+broadcasters
+newspaper
+broadcasting
+journalism
+reporters
+broadcast
+publicity
+multimedia
+communications
+journalistic
+print
+audiovisual
+journalist
+communication
+channels
+newsworthy
+coverage
+disseminating
+content

@@ -1,0 +1,25 @@
+shellfish
+fish
+aquaculture
+crabs
+ciguatera
+marine
+fruit
+sea
+mollusc
+fruits
+seagoing
+products
+clean
+mer
+more
+shrimp
+lobster
+crab
+tuna
+finfish
+salmon
+meat
+sushi
+crawfish
+dungeness crab

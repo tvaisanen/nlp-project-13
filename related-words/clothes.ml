@@ -1,0 +1,25 @@
+apparel
+wear
+vesture
+wearing apparel
+garments
+dresses
+fashions
+attire
+uniforms
+outfits
+shirts
+gowns
+costumes
+outerwear
+garment
+linens
+robes
+jackets
+garbs
+duds
+dressing
+vests
+fatigues
+suits
+textiles

@@ -1,0 +1,25 @@
+man of science
+researcher
+scholar
+science
+expert
+researchers
+investigator
+scientific
+research
+sciences
+specialist
+scholars
+savant
+scholarly
+academic
+searcher
+investigators
+forensic
+grantee
+aerospace
+seeker
+sage
+clerics
+world
+alem

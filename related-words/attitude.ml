@@ -1,0 +1,25 @@
+posture
+mental attitude
+position
+mindset
+mentality
+demeanor
+stance
+approach
+behavior
+mood
+personality
+philosophy
+tone
+willingness
+perception
+spirit
+mien
+inclination
+style
+attitudinal
+tendency
+predisposition
+culture
+feeling
+temper

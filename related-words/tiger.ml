@@ -1,0 +1,25 @@
+panthera tigris
+panther
+leopard
+jaguar
+cougar
+wolf
+lion
+tigris
+sabertooth
+viper
+wolffish
+ltte
+tigre
+wildcat
+woods
+tamil
+tamils
+terror
+killer
+kiddo
+choco
+stepson
+caesar
+silent
+intervention

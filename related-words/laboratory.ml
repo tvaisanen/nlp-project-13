@@ -1,0 +1,25 @@
+lab
+science lab
+labs
+testing
+chemist
+samples
+facility
+biochemical
+test
+serologic
+assay
+experimental
+vitro
+biological
+pharmaceutical
+plant
+storeroom
+experiment
+experimentation
+classroom
+freezer
+darkroom
+analysis
+detection
+disinfectant

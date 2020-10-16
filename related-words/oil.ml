@@ -1,0 +1,25 @@
+lube
+lubricate
+anoint
+oil color
+anele
+petroleum
+gas
+crude
+hydrocarbon
+oilfield
+hydrocarbons
+gasoline
+barrel
+petrochemical
+bitumen
+opec
+refining
+refinery
+drilling
+fuel
+petrol
+energy
+naphtha
+diesel
+tanker

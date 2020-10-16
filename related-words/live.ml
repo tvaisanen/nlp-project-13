@@ -1,0 +1,25 @@
+reside
+inhabit
+go
+subsist
+endure
+populate
+exist
+survive
+people
+know
+be
+shack
+alive
+dwell
+live on
+lively
+untaped
+reverberant
+unfilmed
+current
+resilient
+unrecorded
+experience
+active
+last

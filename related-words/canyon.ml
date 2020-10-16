@@ -1,0 +1,25 @@
+canon
+valley
+gorge
+wadi
+mine
+cannon
+shotgun
+barrel
+gun
+star
+fodder
+butte
+gulch
+creek
+mesa
+mountain
+ravine
+ridge
+mountainside
+hillside
+trailhead
+wilderness
+rimrock
+desert
+hoover dam

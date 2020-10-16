@@ -1,0 +1,25 @@
+testimonial
+good word
+recommending
+recommended
+proposal
+suggestion
+recommend
+recommends
+guideline
+opinion
+suggestions
+advice
+proposals
+advise
+proposed
+admonition
+advised
+guidance
+resolution
+report
+proposing
+endorsement
+suggested
+advises
+proposes

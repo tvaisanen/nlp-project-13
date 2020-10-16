@@ -1,0 +1,25 @@
+bench mark
+index
+yardstick
+standard
+barometer
+standards
+basis
+gauge
+criterion
+criteria
+threshold
+parameters
+indicator
+target
+measure
+guideline
+indicators
+mark
+compare
+proficiency
+record
+parameter
+key
+test
+objective

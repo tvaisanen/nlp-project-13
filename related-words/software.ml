@@ -1,0 +1,25 @@
+software system
+hardware
+computer
+firmware
+computing
+applications
+tool
+application
+informatics
+compute
+programming
+programs
+packages
+adobe
+acrobat
+source
+package
+oss
+program
+programmes
+reader
+programme
+soft
+word
+agenda

@@ -1,0 +1,25 @@
+luxe
+opulence
+de luxe
+deluxe
+extravagance
+sumptuousness
+elegant
+luxuriousness
+lavishness
+sumptuosity
+luxurious
+plush
+posh
+penthouse
+fancy
+leisure
+mansion
+premium
+millionaire
+pleasure
+expensive
+lux
+privilege
+grand
+taste

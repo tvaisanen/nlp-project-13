@@ -1,0 +1,25 @@
+indebtedness
+financial obligation
+pecuniary obligation
+indemnity
+tort
+liable
+culpability
+responsibility
+obligations
+obligation
+risk
+compensation
+jurisdiction
+expenses
+burden
+fault
+responsibilities
+requirement
+debt
+debts
+responsible
+disclaimer
+ownership
+onus
+accountable

@@ -1,0 +1,25 @@
+radical
+communal
+common
+aggroup
+mathematical group
+organization
+association
+consortium
+subgroup
+bunch
+committee
+team
+faction
+organizations
+subset
+movement
+band
+cadre
+unit
+clique
+community
+coterie
+cohort
+contingent
+associations

@@ -1,0 +1,25 @@
+exit
+leaving
+deviation
+release
+loss
+expiration
+divergence
+passing
+difference
+going
+going away
+departing
+resignation
+depart
+departed
+appointment
+demise
+departs
+withdrawal
+exodus
+change
+move
+shift
+ousting
+termination

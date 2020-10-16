@@ -1,0 +1,25 @@
+file away
+archival
+repository
+files
+storage
+file
+storing
+records
+registry
+executable
+filename
+filer
+compressed
+photo
+record
+holdings
+store
+filing
+stores
+shelve
+backs
+compliant
+stockpiling
+closing
+indias

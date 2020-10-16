@@ -1,0 +1,25 @@
+cupful
+transfuse
+loving cup
+bottle
+mug
+jar
+beaker
+goblet
+trophy
+chalice
+bowl
+pot
+container
+coffee
+drink
+tea
+champions
+glass
+tournament
+copa
+vial
+championship
+crown
+bucket
+match

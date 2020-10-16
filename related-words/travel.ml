@@ -1,0 +1,25 @@
+trip
+journey
+jaunt
+go
+move
+locomotion
+change of location
+locomote
+travelers
+trips
+journeys
+flights
+traveler
+itinerary
+cruise
+fly
+vacation
+commuting
+sightseeing
+hitchhike
+destination
+commute
+transportation
+flight
+depart

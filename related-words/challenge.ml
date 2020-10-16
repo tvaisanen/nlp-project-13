@@ -1,0 +1,25 @@
+gainsay
+dispute
+take exception
+obstacle
+hurdle
+task
+dilemma
+obstacles
+threat
+problem
+challengers
+question
+difficulties
+difficulty
+impediment
+gauntlet
+difficult
+danger
+competition
+problems
+battle
+confront
+pitfall
+appeal
+issue

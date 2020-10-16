@@ -1,0 +1,25 @@
+reclusiveness
+closing off
+isolating
+ostracism
+isolate
+isolated
+loneliness
+alienation
+seclusion
+confinement
+marginalization
+solitude
+compartmentalisation
+quarantine
+isolationism
+segregation
+blockade
+insularity
+apartheid
+confining
+disintegration
+exclusion
+remoteness
+detention
+isolator

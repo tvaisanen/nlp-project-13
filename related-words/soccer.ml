@@ -1,0 +1,25 @@
+association football
+football
+sport
+tournament
+league
+fifa
+game
+teams
+player
+team
+match
+playing
+championship
+ball
+pitch
+nfl
+cup
+gambling
+bookmaking
+hemisphere
+casino
+calcium
+foot
+balloon
+bullet

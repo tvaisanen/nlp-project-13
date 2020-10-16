@@ -1,0 +1,25 @@
+partisan
+partizan
+company
+political party
+faction
+likud
+cadres
+birthday
+soiree
+bash
+shindig
+cocktail
+wingding
+ruling
+unp
+kuomintang
+prom
+majority
+dinner
+festivities
+defection
+celebrations
+comrade
+fundraiser
+labour

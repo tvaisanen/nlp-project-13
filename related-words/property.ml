@@ -1,0 +1,25 @@
+belongings
+place
+attribute
+holding
+prop
+dimension
+material possession
+land
+homestead
+condo
+landlord
+estate
+buildings
+estates
+deed
+realtor
+house
+housing
+lands
+assets
+asset
+tenancy
+holdings
+realty
+residence

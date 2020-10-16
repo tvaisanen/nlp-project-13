@@ -1,0 +1,25 @@
+authorities
+regime
+governance
+governing
+politics
+political science
+goverment
+govt
+administration
+federal
+ministry
+minister
+ministries
+state
+cabinet
+administrations
+political
+sector
+governor
+ministers
+treasury
+public
+province
+provincial
+republic

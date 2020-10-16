@@ -1,0 +1,25 @@
+warfare
+state of war
+invasion
+conflict
+hostilities
+wartime
+wwii
+battlefields
+wwi
+battlefield
+iraq
+postwar
+warmongering
+antiwar
+combat
+military
+battle
+fighting
+jihad
+conflicts
+battles
+warlike
+conflagration
+fight
+strife

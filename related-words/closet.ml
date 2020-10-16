@@ -1,0 +1,25 @@
+cupboard
+wardrobe
+loo
+secret
+covert
+private
+confidential
+press
+water closet
+basement
+bathroom
+dresser
+pantry
+locker
+storeroom
+cubicle
+cellar
+compartment
+hiding
+restroom
+fireplace
+shelving
+lavatory
+washroom
+crib

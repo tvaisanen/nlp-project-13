@@ -1,0 +1,25 @@
+effort
+try
+endeavor
+seek
+attack
+undertake
+assay
+essay
+endeavour
+set about
+bid
+quest
+aim
+striving
+order
+desire
+goal
+way
+intention
+intent
+temptation
+willingness
+objective
+want
+conspiracy

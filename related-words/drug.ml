@@ -1,0 +1,25 @@
+dose
+do drugs
+narcotics
+narcotic
+cocaine
+heroin
+meth
+medication
+medications
+pharmaceutical
+dope
+marijuana
+pill
+opiate
+medicines
+prescription
+meds
+antibiotic
+stimulant
+stimulants
+vaccine
+pharmacy
+substances
+drugmaker
+pharmaceuticals

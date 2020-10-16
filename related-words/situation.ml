@@ -1,0 +1,25 @@
+position
+place
+spot
+post
+site
+slot
+berth
+office
+state of affairs
+predicament
+circumstances
+scenario
+circumstance
+crisis
+plight
+conditions
+condition
+conjuncture
+incident
+problem
+mess
+problems
+eventuality
+happening
+issue

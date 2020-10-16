@@ -1,0 +1,25 @@
+pugilism
+fisticuffs
+packing
+boxer
+fighter
+fight
+ring
+athletics
+fighting
+athletic
+kid
+fist
+glove
+christmas
+garden
+gauntlet
+archiving
+quan
+boxers
+unit
+prizefighting
+light heavyweight
+welterweight
+middleweight
+kickboxing

@@ -1,0 +1,25 @@
+weapon system
+artillery
+arm
+gun
+firearm
+pistol
+handgun
+weaponry
+guns
+shotgun
+arsenal
+knife
+firearms
+sidearm
+rifle
+ammunition
+revolver
+munition
+sword
+missile
+armament
+armed
+armaments
+bomb
+tool

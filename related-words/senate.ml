@@ -1,0 +1,25 @@
+united states senate
+senators
+senator
+congress
+senatorial
+congressional
+congressman
+bill
+seanad
+chamber
+college
+upper
+house
+clerk
+nats
+nat
+elders
+austin
+room
+hays
+hill
+bedroom
+collège
+sheikhs
+legislature

@@ -1,0 +1,25 @@
+pith
+content
+essence
+nub
+matter
+meat
+meaning
+gist
+sense
+inwardness
+marrow
+sum
+message
+core
+kernel
+means
+heart
+subject matter
+center
+nitty-gritty
+narcotic
+drugs
+chemicals
+ingredient
+corrosiveness

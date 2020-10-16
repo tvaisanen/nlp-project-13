@@ -1,0 +1,25 @@
+psychological science
+psychiatry
+psychologists
+psychological
+psycho
+psyche
+mindset
+psych
+mentality
+psychiatric
+mental
+sentiment
+attitude
+mind
+soul
+self
+correspondence
+restraint
+enthusiasm
+psychologie
+self-control
+self-restraint
+sociology
+anthropology
+psychobiology

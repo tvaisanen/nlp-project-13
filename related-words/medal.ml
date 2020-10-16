@@ -1,0 +1,25 @@
+laurel wreath
+medallion
+decoration
+ribbon
+palm
+bronze
+medalist
+gold
+prize
+olympic
+award
+awards
+honor
+medallist
+olympiad
+plaque
+prizes
+badge
+coin
+locket
+citation
+commemorative
+decorations
+tally
+insignia
