@@ -1,0 +1,25 @@
+very
+actually
+truly
+genuinely
+real
+rattling
+forsooth
+in truth
+obviously
+definitely
+pretty
+just
+certainly
+yeah
+frankly
+honestly
+quite
+awfully
+terribly
+what
+incredibly
+basically
+great
+like
+not

@@ -1,0 +1,25 @@
+metallic
+silver
+gold
+bimetal
+bimetallic
+aluminous
+argentiferous
+bronze
+gilded
+auriferous
+golden
+tinny
+aluminiferous
+antimonial
+gold-bearing
+metallic element
+metallike
+steel
+copper
+alloy
+tin
+zinc
+bullion
+metalwork
+iron

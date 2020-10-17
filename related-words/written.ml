@@ -1,0 +1,25 @@
+handwritten
+transcribed
+typed
+printed
+typewritten
+scrawled
+inscribed
+scripted
+longhand
+codified
+cursive
+print
+shorthand
+in writing
+statute
+graphic
+engrossed
+holographic
+graphical
+left-slanting
+scrivened
+backhand
+penned
+read
+authored

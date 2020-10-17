@@ -1,0 +1,25 @@
+component
+role
+portion
+contribution
+partly
+piece
+partially
+section
+start
+separate
+character
+break
+region
+function
+divide
+division
+disunite
+office
+share
+percentage
+persona
+depart
+split up
+split
+voice

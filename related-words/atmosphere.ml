@@ -1,0 +1,25 @@
+ambience
+ambiance
+aura
+air
+atm
+atmospheric state
+vibe
+environment
+atmospheric
+mood
+climate
+feeling
+spirit
+ambient
+tone
+stratosphere
+ethos
+situation
+biosphere
+culture
+n2o
+oxygen
+co2
+altitude
+earth

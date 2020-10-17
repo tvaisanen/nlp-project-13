@@ -1,0 +1,25 @@
+departure
+exit
+deprivation
+going
+passing
+expiration
+release
+personnel casualty
+losses
+losing
+lost
+setback
+defeat
+lose
+gain
+decline
+impairment
+loses
+expense
+diminution
+deterioration
+failure
+damage
+reversal
+elimination

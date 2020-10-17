@@ -1,0 +1,25 @@
+fortuity
+chance event
+crashes
+fatalities
+collisions
+mishaps
+incidents
+deaths
+tragedies
+crash
+injuries
+disasters
+occurrences
+incident
+emergencies
+catastrophes
+hazards
+cases
+occurrence
+calamities
+casualties
+accidental
+safety
+instances
+injury

@@ -1,0 +1,25 @@
+flavor
+temper
+flavour
+time of year
+harden
+summer
+spring
+league
+year
+winter
+fall
+time
+holiday
+era
+campaign
+seasonal
+harvest
+episode
+quarter
+monsoon
+christmas
+period
+pitcher
+weather
+rainy

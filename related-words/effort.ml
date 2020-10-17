@@ -1,0 +1,25 @@
+attempt
+endeavor
+campaign
+try
+crusade
+drive
+movement
+feat
+exertion
+elbow grease
+travail
+cause
+sweat
+deed
+exploit
+endeavour
+initiative
+quest
+goal
+way
+operation
+striving
+commitment
+aim
+attempted

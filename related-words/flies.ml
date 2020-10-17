@@ -1,0 +1,25 @@
+hovers
+travels
+birds
+goes
+soars
+sends
+hover
+bugs
+fleas
+heads
+pilot
+floats
+robs
+beats
+vole
+runs
+boosts
+float
+passes
+patch
+steals
+sauce
+steal
+dessert
+turkey buzzard

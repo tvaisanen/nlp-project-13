@@ -1,0 +1,25 @@
+alcoholic beverage
+drink
+intoxicant
+inebriant
+booze
+liquor
+drinking
+intoxication
+drunk
+drunkenness
+alcoholic
+alcoholism
+alcoholics
+liquors
+substance
+beverage
+wine
+tequila
+brandy
+breath
+gin
+bourbon
+isopropyl
+ethyl
+ethanol

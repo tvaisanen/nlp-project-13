@@ -1,0 +1,25 @@
+newspaper
+report
+newspaper publisher
+wallpaper
+composition
+theme
+printed
+print
+newsprint
+cardboard
+journal
+ink
+sheet
+sheets
+document
+hardcopy
+newspapers
+paperboard
+papermaking
+pulp
+printout
+booklet
+book
+literature
+publication

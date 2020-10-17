@@ -1,0 +1,25 @@
+entire
+totally
+completely
+all
+entirely
+altogether
+wholly
+full
+livelong
+total
+healthy
+integral
+whole thing
+intact
+unit
+undivided
+full-length
+full-page
+hale
+rest
+everybody
+just
+everything
+every
+everyone

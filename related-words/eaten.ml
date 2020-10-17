@@ -1,0 +1,25 @@
+devoured
+consumed
+ingested
+eaten up
+swallowed
+tasted
+smoked
+fed
+dined
+dinner
+absorbed
+grazed
+eroded
+taken
+abused
+combusted
+touched
+tormented
+used
+corroded
+had
+consummated
+prey
+moth
+downed

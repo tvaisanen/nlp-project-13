@@ -1,0 +1,25 @@
+psychopathology
+psychological medicine
+psychology
+psychosis
+psych
+psychological
+mental
+psychotropic
+child
+infant
+dependence
+liaison
+compr
+neurology
+pediatrics
+neuroscience
+neuropsychiatry
+psychopharmacology
+neuropsychology
+neurobiology
+anesthesiology
+geriatrics
+neurosurgery
+pharmacology
+paediatrics

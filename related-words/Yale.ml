@@ -1,0 +1,25 @@
+yale university
+princeton
+eli
+pennsylvania
+yell
+hunan
+yel
+harvard
+georgetown
+berkeley
+rutgers
+asu
+syracuse
+monica
+christine
+emily
+teresa
+mikey
+julia
+claudia
+rochester
+erik
+kathy
+linda
+doug

@@ -1,0 +1,25 @@
+manufacturer
+shaper
+manufacturing business
+company
+manufacturers
+factory
+producer
+inventor
+manufacture
+manufacturing
+firm
+designer
+developer
+companies
+innovator
+fabricator
+industry
+builder
+making
+creator
+machine
+craftsman
+originator
+jeweller
+publisher

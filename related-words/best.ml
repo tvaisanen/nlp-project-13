@@ -1,0 +1,25 @@
+finest
+greatest
+top
+optimum
+foremost
+optimal
+unsurpassed
+first
+unsurpassable
+record
+champion
+outdo
+unexcelled
+scoop
+trump
+advisable
+prizewinning
+superfine
+outflank
+sunday
+go-to-meeting
+high-grade
+most desirable
+record-breaking
+second-best

@@ -1,0 +1,25 @@
+assortment
+potpourri
+diversity
+mixture
+miscellany
+variety show
+miscellanea
+breed
+kind
+motley
+sort
+change
+species
+stock
+strain
+form
+diverseness
+multifariousness
+multitude
+various
+myriad
+array
+plethora
+varied
+multiple

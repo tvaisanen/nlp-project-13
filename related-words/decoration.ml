@@ -1,0 +1,25 @@
+ornament
+ornamentation
+laurel wreath
+ribbon
+medallion
+medal
+palm
+decorative
+decorating
+adornment
+decor
+embellishment
+furniture
+furnishing
+jewelry
+insignia
+garnish
+renovation
+refurbishment
+commendation
+awards
+contractor
+badge
+award
+scenery

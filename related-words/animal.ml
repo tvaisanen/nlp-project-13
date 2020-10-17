@@ -1,0 +1,25 @@
+creature
+beast
+fauna
+fishlike
+fleshly
+carnal
+brute
+physical
+sensual
+animate being
+dog
+pet
+wildlife
+pig
+pets
+livestock
+mammal
+veterinary
+veterinarian
+bird
+elephant
+bovine
+snake
+whale
+zoo

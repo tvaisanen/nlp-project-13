@@ -1,0 +1,25 @@
+birthrate
+fecundity
+fertility rate
+birth rate
+prolificacy
+richness
+infertility
+reproductive
+pregnancy
+childbearing
+fertilization
+childbirth
+birth
+reproduction
+procreation
+parenthood
+maternity
+sterility
+fertilisation
+sterilization
+generational
+rate
+fertilizer
+variant
+planning

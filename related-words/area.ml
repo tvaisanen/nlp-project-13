@@ -1,0 +1,25 @@
+region
+country
+expanse
+field
+sphere
+arena
+domain
+orbit
+surface area
+vicinity
+neighborhood
+environs
+location
+valley
+community
+town
+zone
+zones
+locality
+district
+places
+park
+proximity
+regions
+locale

@@ -1,0 +1,25 @@
+seashore
+coastal
+land
+set ashore
+coast
+shoreline
+coastlines
+beaches
+shorelines
+coasts
+beach
+borders
+waterfront
+riverbanks
+frontiers
+river
+shorebirds
+fringes
+boundaries
+edges
+rive
+flanks
+banks
+sides
+costa

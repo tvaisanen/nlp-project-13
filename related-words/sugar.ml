@@ -1,0 +1,25 @@
+refined sugar
+carbohydrate
+saccharide
+sweetener
+sugarcane
+honey
+sweeteners
+candy
+beet
+peanut
+glucose
+maltose
+cane
+sweetness
+diabetics
+cabbage
+carrot
+sweet
+pumpkin
+sucre
+mellitus
+diabetes
+crab
+sweeten
+sweetie

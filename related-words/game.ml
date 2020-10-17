@@ -1,0 +1,25 @@
+punt
+back
+gritty
+gamey
+gage
+fearless
+spirited
+spunky
+stake
+mettlesome
+brave
+gamy
+biz
+courageous
+bet on
+play
+match
+ballgame
+matches
+playing
+tournament
+player
+ball
+team
+contest

@@ -1,0 +1,25 @@
+racialism
+bigotry
+xenophobia
+racial
+discrimination
+colonialism
+apartheid
+racially
+ethnic
+entrenched
+race
+anti-racism
+anti-racist
+racisme
+homophobia
+racial discrimination
+sexism
+antisemitism
+classism
+prejudice
+misogyny
+injustice
+islamophobia
+ageism
+heterosexism

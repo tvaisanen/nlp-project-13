@@ -1,0 +1,25 @@
+landscape painting
+scenery
+topography
+skyline
+panorama
+milieu
+environment
+surroundings
+landform
+terrain
+nature
+horizon
+countryside
+backdrop
+climate
+structure
+beauty
+geomorphology
+environments
+topographical
+scenic
+context
+background
+physiognomy
+scene

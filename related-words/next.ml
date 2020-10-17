@@ -1,0 +1,25 @@
+future
+following
+close
+succeeding
+incoming
+adjacent
+side by side
+last
+later
+first
+upcoming
+coming
+ahead
+expected
+second
+soon
+again
+now
+new
+after
+forthcoming
+third
+early
+then
+come

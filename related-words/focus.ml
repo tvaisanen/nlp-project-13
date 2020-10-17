@@ -1,0 +1,25 @@
+concentrate
+centering
+focal point
+sharpen
+stress
+rivet
+center
+pore
+concenter
+centre
+nidus
+concentrating
+refocus
+emphasis
+refocusing
+concentrated
+emphasize
+centered
+concentrates
+devote
+priority
+aim
+dwell
+objective
+prioritize

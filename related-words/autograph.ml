@@ -1,0 +1,25 @@
+inscribe
+john hancock
+handwritten
+photograph
+fan
+sign
+signature
+copy
+photo
+signing
+manuscript
+signed
+ink
+picture
+pop
+score
+looper
+original
+memorabilia
+souvenir
+keepsake
+bobblehead
+lithograph
+memento
+jersey

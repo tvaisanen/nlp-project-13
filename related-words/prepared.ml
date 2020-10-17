@@ -1,0 +1,25 @@
+ready
+willing
+braced
+inclined
+equipped
+equipt
+precooked
+processed
+disposed
+preconditioned
+up
+embattled
+fain
+spread
+fitted out
+readied
+unprepared
+preparation
+primed
+prepped
+planned
+preparations
+poised
+able
+positioned

@@ -1,0 +1,25 @@
+rise
+raise
+boost
+tramp
+hike up
+increases
+rises
+increase
+climb
+spike
+rising
+raising
+escalation
+climbs
+raises
+soaring
+higher
+trek
+growth
+surge
+jump
+surges
+surging
+upsurge
+excursion

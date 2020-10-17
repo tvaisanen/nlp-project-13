@@ -1,0 +1,25 @@
+commemorate
+marker
+score
+cross
+target
+punctuate
+set
+sign
+stain
+deutsche mark
+tag
+label
+scar
+note
+scratch
+mug
+scrape
+crisscross
+brand
+nock
+fool
+chump
+patsy
+sucker
+denounce

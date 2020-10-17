@@ -1,0 +1,25 @@
+convicted
+culpable
+indictable
+blameworthy
+ashamed
+criminal
+punishable
+shamed
+condemned
+finable
+fineable
+shamefaced
+at fault
+chargeable
+blamable
+hangdog
+delinquent
+blameable
+blameful
+bloodguilty
+censurable
+conscience-smitten
+guilt-ridden
+sentenced
+conviction

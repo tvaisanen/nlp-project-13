@@ -1,0 +1,25 @@
+opera house
+operatic
+symphony
+theater
+musical
+theatrical
+troupe
+theatre
+film
+movie
+dramas
+drama
+scene
+works
+show
+play
+performance
+series
+work
+oprah
+homosexuality
+leisure
+oper
+trenton
+met

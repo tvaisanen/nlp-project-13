@@ -1,0 +1,25 @@
+cost
+terms
+toll
+damage
+monetary value
+premium
+market
+value
+purchase
+discount
+costs
+sale
+tariff
+tariffs
+rates
+fee
+rate
+fares
+inflation
+fees
+pay
+expensive
+amount
+airfare
+worth

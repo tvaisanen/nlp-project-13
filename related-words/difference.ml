@@ -1,0 +1,25 @@
+divergence
+deviation
+conflict
+dispute
+departure
+difference of opinion
+disparity
+discrepancy
+gap
+impact
+improvement
+mismatch
+change
+differential
+contribution
+distinction
+contradiction
+chasm
+variation
+gulf
+dichotomy
+dissimilarity
+disproportion
+divide
+differentiator

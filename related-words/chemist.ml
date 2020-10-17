@@ -1,0 +1,25 @@
+pharmacist
+druggist
+apothecary
+pill pusher
+pill roller
+chemical
+laboratory
+pharmacy
+chemistry
+drugstore
+analyst
+biochemist
+pharmacologist
+physicist
+scientist
+microbiologist
+molecular biologist
+toxicologist
+pharmacognosy
+biophysicist
+bacteriologist
+herbalist
+crystallographer
+geneticist
+botanist

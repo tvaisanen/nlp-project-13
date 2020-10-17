@@ -1,0 +1,25 @@
+dough
+cabbage
+kale
+gelt
+shekels
+loot
+pelf
+dinero
+moolah
+lucre
+breadstuff
+staff of life
+butter
+loaf
+cake
+soup
+bakery
+baking
+boulangerie
+food
+bacon
+toast
+bun
+fruitcake
+baked

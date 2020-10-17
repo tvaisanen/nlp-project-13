@@ -1,0 +1,25 @@
+utilized
+misused
+exploited
+victimized
+secondhand
+old
+ill-used
+in use
+put-upon
+intended
+designed
+applied
+relied
+helped
+employed
+provided
+utilize
+utilizes
+needed
+utilizing
+developed
+permitted
+targeted
+allowed
+enabled

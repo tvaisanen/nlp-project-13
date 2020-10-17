@@ -1,0 +1,25 @@
+piece
+cut
+slash
+slit
+gash
+fade
+slice up
+chunk
+rasher
+carve
+portion
+bite
+nibble
+crumb
+fraction
+loaf
+fillet
+slab
+pizza
+lump
+hunk
+proportion
+facet
+sample
+part

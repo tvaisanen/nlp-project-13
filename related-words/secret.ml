@@ -1,0 +1,25 @@
+clandestine
+covert
+confidential
+hidden
+privy
+concealed
+mystery
+surreptitious
+mysterious
+classified
+unacknowledged
+undercover
+enigma
+private
+underground
+mystical
+secluded
+occult
+closet
+mystic
+esoteric
+cloak-and-dagger
+closed book
+hole-and-corner
+hugger-mugger

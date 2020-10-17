@@ -1,0 +1,25 @@
+prove
+testify
+grounds
+demonstrate
+ascertain
+manifest
+show
+certify
+tell
+attest
+bear witness
+proof
+corroboration
+evidentiary
+conclusive
+corroborating
+testimony
+substantiate
+justification
+indications
+evidential
+documentation
+facts
+indication
+substantiating

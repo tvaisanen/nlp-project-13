@@ -1,0 +1,25 @@
+cause
+grounds
+argue
+rationality
+understanding
+conclude
+intellect
+ground
+reasonableness
+reason out
+why
+justification
+excuse
+explanation
+rationale
+thing
+because
+motivation
+factor
+motive
+consequence
+purpose
+causes
+source
+sense

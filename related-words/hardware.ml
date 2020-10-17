@@ -1,0 +1,25 @@
+computer hardware
+ironware
+software
+appliance
+equipment
+computer
+computers
+appliances
+devices
+device
+equipments
+materiel
+gear
+machines
+machine
+supplies
+pcs
+stuff
+deployment
+apparatus
+accessory
+machinery
+materials
+physical
+bling

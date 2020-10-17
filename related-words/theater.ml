@@ -1,0 +1,25 @@
+theatre
+dramaturgy
+dramatic art
+house
+dramatics
+cinema
+theatrical
+playhouse
+opera
+cabaret
+troupe
+playwright
+movie
+film
+broadway
+filmmaking
+studio
+entertainment
+movies
+bolshoi
+films
+hall
+venue
+cine
+stage

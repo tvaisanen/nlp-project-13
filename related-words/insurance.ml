@@ -1,0 +1,25 @@
+indemnity
+coverage
+policy
+insurance policy
+insurers
+insurer
+insured
+reinsurance
+insurability
+insurable
+underwriting
+insuring
+health
+medicaid
+pension
+casualty
+medicare
+unemployment
+warranty
+premium
+care
+cover
+underwriters
+benefits
+protection

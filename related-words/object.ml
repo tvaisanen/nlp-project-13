@@ -1,0 +1,25 @@
+objective
+target
+aim
+physical object
+artifact
+item
+objection
+artefact
+resist
+subject
+cavil
+oppose
+element
+objet
+demur
+body
+totem
+purpose
+matter
+victim
+items
+preclude
+thing
+argue
+disagree

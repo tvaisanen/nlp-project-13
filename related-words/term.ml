@@ -1,0 +1,25 @@
+condition
+full term
+tenure
+long
+lasting
+haul
+duration
+medium
+cycle
+periods
+period
+outlook
+timeframe
+future
+lifetime
+mandate
+expiry
+temporary
+horizon
+determinate
+expiration
+phase
+presidency
+time
+lifespan

@@ -1,0 +1,25 @@
+colony
+dominion
+province
+district
+mandate
+territorial dominion
+territorial
+airspace
+territorially
+region
+border
+zone
+lands
+islands
+realm
+homeland
+landmass
+areas
+island
+mainland
+terrain
+land
+regions
+sphere
+boundary

@@ -1,0 +1,25 @@
+end
+decision
+ending
+determination
+termination
+finish
+finale
+finis
+closing
+terminus
+last
+close
+stopping point
+conclude
+concluding
+concluded
+concludes
+outcome
+inference
+findings
+summation
+reasoning
+verdict
+finality
+realization

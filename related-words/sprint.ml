@@ -1,0 +1,25 @@
+dash
+race
+run
+furlong
+speed
+velocity
+spurt
+star
+all-out
+steeplechase
+triathlon
+miler
+footrace
+marathon
+racewalking
+gallop
+runner
+ironman
+endurance
+biathlon
+triathlete
+backstroke
+track and field
+ultramarathon
+decathlon

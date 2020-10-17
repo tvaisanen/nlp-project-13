@@ -1,0 +1,25 @@
+hypothesis
+theory
+opening
+possible action
+possibleness
+likelihood
+prospect
+specter
+potential
+probability
+danger
+threat
+chance
+possible
+scenario
+suggestion
+idea
+option
+notion
+risk
+whether
+feasibility
+options
+eventuality
+might

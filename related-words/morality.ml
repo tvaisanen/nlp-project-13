@@ -1,0 +1,25 @@
+morals
+ethics
+ethical motive
+moral
+decency
+morally
+ethical
+ethic
+integrity
+ethos
+bourgeois
+character
+virtue
+etiquette
+psychological
+literature
+conduct
+morale
+legal
+mental
+mortality
+vice
+costume
+missus
+suit

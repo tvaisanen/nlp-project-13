@@ -1,0 +1,25 @@
+stymie
+stop
+obstruct
+impede
+halt
+barricade
+hinder
+deflect
+blockage
+bar
+interference
+freeze
+blockade
+embarrass
+parry
+kibosh
+jam
+stuff
+occlude
+cube
+immobilize
+stoppage
+auction block
+closure
+forget

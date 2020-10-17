@@ -1,0 +1,25 @@
+accountable
+liable
+answerable
+trustworthy
+causative
+judicious
+creditworthy
+responsible for
+trusty
+responsibility
+blame
+culpable
+blamed
+tasked
+committed
+supervising
+involved
+capable
+fault
+attributable
+culprit
+dedicated
+irresponsible
+entrusted
+guilty

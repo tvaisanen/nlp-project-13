@@ -1,0 +1,25 @@
+comfort
+cabinet
+soothe
+solace
+console table
+dashboard
+mainframe
+dashboards
+deck
+desk
+brackets
+pulpit
+cantilever
+rras
+ancon
+consul
+videogame
+xbox
+playstation
+gamers
+nintendo
+arcade
+joystick
+hardware
+handheld

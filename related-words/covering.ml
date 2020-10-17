@@ -1,0 +1,25 @@
+shielding
+protective
+wide
+masking
+coating
+broad
+overhanging
+overspreading
+screening
+natural covering
+application
+encompassing
+coverage
+spanning
+encompass
+spans
+including
+stretching
+includes
+wrap
+pertaining
+ranging
+blanket
+containing
+across

@@ -1,0 +1,25 @@
+son
+child
+male child
+girls
+kids
+teenagers
+men
+youngsters
+youths
+children
+teens
+youth
+males
+adolescents
+twins
+brothers
+juveniles
+lads
+sons
+adolescent
+fellas
+pupils
+kiddies
+young
+guys

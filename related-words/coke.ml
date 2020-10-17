@@ -1,0 +1,25 @@
+cocain
+cocaine
+coca cola
+snow
+c
+coal
+cokehead
+dope
+smelting
+cola
+soda
+drink
+coco
+stash
+sintering
+coca
+glass
+coconut
+nuts
+kola
+koko
+diet
+fridge
+commie
+wool

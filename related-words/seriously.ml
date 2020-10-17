@@ -1,0 +1,25 @@
+gravely
+badly
+severely
+earnestly
+in earnest
+serious
+lightly
+seriousness
+critically
+grievously
+genuinely
+deeply
+sincerely
+frankly
+thoroughly
+profoundly
+honestly
+really
+harshly
+indeed
+actually
+fundamentally
+meaningfully
+carefully
+vigorously

@@ -1,0 +1,25 @@
+sigmund freud
+floyd
+onanism
+midmost
+pudenda
+bdsm
+psychoanalysis
+lexis
+carbolic
+crohn
+tumescence
+transvestitism
+zoophilia
+psychoanalytic
+aneath
+adown
+necro
+lunesta
+unguent
+bunghole
+gendering
+effluvium
+trepanning
+metaphysic
+lolita
