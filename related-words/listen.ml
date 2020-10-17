@@ -1,0 +1,25 @@
+hear
+heed
+mind
+take heed
+watch
+tell
+let
+ears
+know
+voices
+attend
+ear
+see
+follow
+tuned
+wait
+attuned
+tuning
+please
+receptive
+attentive
+obey
+get
+you
+hey

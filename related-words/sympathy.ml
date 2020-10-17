@@ -1,0 +1,25 @@
+understanding
+fellow feeling
+empathy
+affection
+gratitude
+compassion
+condolences
+grief
+sorrow
+pity
+solidarity
+sympathetic
+solicitude
+regret
+condolence
+dismay
+kindness
+sadness
+support
+mercy
+appreciation
+emotion
+consternation
+goodwill
+comfort

@@ -1,0 +1,25 @@
+genuine
+really
+actual
+true
+realistic
+tangible
+serious
+literal
+substantial
+very
+veridical
+proper
+historical
+factual
+concrete
+existent
+rattling
+material
+real number
+great
+definite
+big
+actually
+ultimate
+meaningful

@@ -1,0 +1,25 @@
+employed
+running
+functioning
+practical
+functional
+temporary
+impermanent
+operative
+on the job
+collaborating
+trying
+striving
+doing
+laboring
+cooperating
+collaborate
+employing
+dealing
+preparing
+busy
+strive
+acting
+serving
+struggling
+operate

@@ -1,0 +1,25 @@
+wet
+moist
+dull
+dampen
+deaden
+moistness
+soften
+muffle
+weaken
+break
+mute
+tone down
+humid
+muggy
+dank
+humidity
+rainy
+soaked
+musty
+wetter
+dewy
+moisture
+wetted
+toughened
+unenthusiastic

@@ -1,0 +1,25 @@
+leaving
+passing
+sledding
+exit
+loss
+active
+going away
+expiration
+departure
+gonna
+release
+coming
+gotta
+doing
+trying
+okay
+getting
+happening
+wanna
+come
+looking
+heading
+get
+starting
+moving

@@ -1,0 +1,25 @@
+discover
+see
+get
+obtain
+determine
+ascertain
+retrieve
+feel
+uncovering
+detect
+recover
+receive
+regain
+happen
+observe
+discovery
+encounter
+incur
+hit
+notice
+bump
+rule
+find out
+chance
+breakthrough

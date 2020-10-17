@@ -1,0 +1,25 @@
+all
+all of
+each
+entire
+everybody
+everyone
+whole
+everything
+just
+per
+throughout
+any
+the
+anything
+full
+individual
+either
+maximum
+out
+specific
+those
+many
+both
+foremost
+tout

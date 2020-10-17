@@ -1,0 +1,25 @@
+perusing
+perusal
+poring over
+researching
+examining
+reviewing
+exploring
+analyzing
+discussing
+scrutinizing
+investigating
+learning
+mulling
+examine
+researches
+surveying
+considering
+explored
+contemplating
+enrolled
+enrolling
+looking
+student
+explore
+investigate

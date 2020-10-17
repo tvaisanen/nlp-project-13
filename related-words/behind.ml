@@ -1,0 +1,25 @@
+trailing
+down
+bottom
+rear
+backside
+seat
+stern
+slow
+butt
+posterior
+tail
+bum
+can
+prat
+keister
+rump
+ass
+tush
+hindquarters
+arse
+fanny
+fundament
+derriere
+behindhand
+hind end

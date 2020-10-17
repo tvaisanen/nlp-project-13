@@ -1,0 +1,25 @@
+deflect
+perturb
+unhinge
+cark
+trouble
+disquiet
+disorder
+draw away
+detract
+dissuade
+divert
+deter
+overshadow
+derail
+disrupt
+prevent
+amuse
+sidetrack
+dispel
+forget
+disguise
+hijack
+avert
+highjack
+redirect

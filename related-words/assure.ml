@@ -1,0 +1,25 @@
+ensure
+reassure
+guarantee
+insure
+secure
+tell
+ascertain
+see
+promise
+check
+control
+see to it
+ensuring
+convince
+safeguard
+ensured
+protect
+sure
+ensures
+guaranteeing
+maintain
+inform
+emphasize
+assert
+establish

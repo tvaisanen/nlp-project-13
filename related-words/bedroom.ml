@@ -1,0 +1,25 @@
+bedchamber
+chamber
+sleeping room
+house
+bed
+room
+cabin
+dorm
+dormitory
+sleeping
+cot
+crib
+hut
+bunk
+boudoir
+nursery
+salon
+sleep
+chimney
+maid
+cell
+vault
+sleeper
+chambers
+chambre

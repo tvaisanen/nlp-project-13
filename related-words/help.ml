@@ -1,0 +1,25 @@
+assist
+assistance
+facilitate
+aid
+serve
+avail
+helper
+service
+supporter
+assistant
+help oneself
+enable
+try
+empower
+improve
+allow
+need
+encourage
+support
+provide
+assisting
+helpful
+contribute
+aids
+enhance

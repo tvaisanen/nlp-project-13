@@ -1,0 +1,4 @@
+venv
+demo-app
+datasets/glove.6B
+__pycache__

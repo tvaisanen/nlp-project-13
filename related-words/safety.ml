@@ -1,0 +1,25 @@
+safe
+refuge
+guard
+prophylactic
+condom
+rubber
+bingle
+base hit
+hazard
+protection
+health
+security
+cleanliness
+safer
+reliability
+soundness
+hygiene
+safeguarding
+precautions
+protecting
+danger
+safeguards
+safeguard
+welfare
+protect

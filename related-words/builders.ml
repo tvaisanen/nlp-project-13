@@ -1,0 +1,25 @@
+developer
+constructor
+detergent builder
+developers
+architects
+contractors
+designers
+shipbuilders
+manufacturers
+craftsmen
+entrepreneurs
+artisans
+makers
+originators
+craftspersons
+vendors
+framers
+artists
+erectors
+producers
+manufacturer
+creators
+generators
+trainers
+founders

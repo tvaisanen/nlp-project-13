@@ -1,0 +1,25 @@
+nucleus
+essence
+nub
+kernel
+heart
+meat
+gist
+substance
+pith
+center
+inwardness
+marrow
+effect
+sum
+burden
+core group
+nitty-gritty
+bedrock
+foundational
+underlying
+cornerstone
+fundamental
+key
+focus
+basic

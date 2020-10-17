@@ -1,0 +1,25 @@
+long
+distant
+right
+furthermost
+outlying
+faraway
+remote
+uttermost
+cold
+removed
+utmost
+immoderate
+far-off
+farthermost
+off the beaten track
+out-of-the-way
+much
+well
+yet
+just
+many
+even
+already
+beyond
+now

@@ -1,0 +1,25 @@
+introduce
+demonstrate
+submit
+confront
+pose
+portray
+attending
+acquaint
+give
+show
+deliver
+face
+exhibit
+stage
+gift
+here
+existing
+omnipresent
+salute
+award
+demo
+present tense
+immediate
+inst
+nowadays

@@ -1,0 +1,25 @@
+sense
+look
+find
+smell
+experience
+spirit
+flavor
+tone
+palpate
+finger
+tactile property
+think
+know
+seem
+want
+believe
+understand
+perceive
+see
+suppose
+get
+imagine
+guess
+say
+like

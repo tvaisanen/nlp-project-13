@@ -1,0 +1,25 @@
+merchandise
+production
+wares
+intersection
+mathematical product
+brands
+offerings
+devices
+manufacturers
+industries
+coatings
+manufactures
+markets
+appliances
+components
+foods
+pharmaceuticals
+cosmetics
+materials
+ingredients
+goods
+market
+chemicals
+foodstuffs
+manufactured

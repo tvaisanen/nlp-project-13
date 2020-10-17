@@ -1,0 +1,25 @@
+proved
+tested
+proven
+dependable
+reliable
+time-tested
+tried and true
+well-tried
+attempted
+wanted
+strove
+struggled
+sought
+strived
+did
+worked
+striven
+went
+tended
+got
+endeavored
+took
+tempted
+efforts
+continued

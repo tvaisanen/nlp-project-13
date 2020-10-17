@@ -1,0 +1,25 @@
+rainfall
+rainwater
+pelting
+rain down
+downpour
+rainstorm
+drizzle
+precipitation
+thunderstorm
+weather
+wet
+rainy
+storm
+deluge
+mist
+hail
+dry
+moist
+shower
+water
+raincoat
+tropical
+drainage
+sprinkle
+waterproof

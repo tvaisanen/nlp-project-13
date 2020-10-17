@@ -1,0 +1,25 @@
+slightly
+fairly
+moderately
+reasonably
+passably
+middling
+within reason
+mildly
+bit
+quite
+considerably
+comparatively
+relatively
+very
+pretty
+vaguely
+marginally
+little
+sufficiently
+modestly
+kinda
+somehow
+sometimes
+sorta
+rather

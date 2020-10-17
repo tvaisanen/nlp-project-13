@@ -1,0 +1,25 @@
+essential
+critical
+indispensable
+vitalizing
+invigorating
+alive
+lively
+animate
+full of life
+life-giving
+life-sustaining
+animated
+crucial
+important
+integral
+key
+pivotal
+valuable
+imperative
+invaluable
+paramount
+lifeblood
+necessary
+irreplaceable
+importance

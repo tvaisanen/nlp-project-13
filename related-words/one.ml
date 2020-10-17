@@ -1,0 +1,25 @@
+single
+same
+combined
+nonpareil
+cardinal
+peerless
+uncomparable
+united
+unitary
+matchless
+incomparable
+unspecified
+unity
+extraordinary
+ace
+unmatchable
+unmatched
+unrivaled
+unrivalled
+indefinite
+i
+one and only
+ane
+only
+two

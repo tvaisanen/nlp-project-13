@@ -1,0 +1,25 @@
+raise
+nurture
+bring up
+rear
+children
+siblings
+mother
+mothers
+dads
+fathers
+guardians
+families
+father
+dad
+relatives
+family
+moms
+caregivers
+adults
+cousins
+mum
+spouses
+orphans
+parenthood
+couples

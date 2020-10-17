@@ -1,0 +1,25 @@
+fortuity
+chance event
+crash
+collision
+mishap
+wreck
+incident
+crashes
+fatality
+derailment
+explosion
+tragedy
+injuries
+injury
+crashed
+blast
+injured
+incidents
+happened
+disaster
+accidental
+spill
+scene
+catastrophe
+shooting

@@ -1,0 +1,25 @@
+price
+toll
+be
+monetary value
+savings
+fee
+expensive
+expenses
+expense
+fees
+costly
+outlay
+value
+pricing
+costed
+expenditure
+priced
+prices
+expenditures
+pay
+estimated
+budget
+burden
+incurred
+pays

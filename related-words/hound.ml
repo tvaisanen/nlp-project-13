@@ -1,0 +1,25 @@
+hound dog
+dog
+hunt
+bounder
+blackguard
+cad
+heel
+trace
+basset
+mutt
+bluetick
+puppy
+canine
+rabbit
+bunny
+doggie
+sleuth
+doggy
+pedigree
+pursue
+beset
+boy
+beagle
+coonhound
+bloodhound
