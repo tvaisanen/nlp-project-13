@@ -23,3 +23,78 @@ sex
 equalize
 achievement
 equalization
+equals
+equalisation
+equivalency
+equity
+balance
+equally
+legality
+quality
+footing
+treatment
+playing
+level
+tie
+wager
+genera
+field
+deuce
+tied
+bet
+equitability
+passu
+égalité
+inclusiveness
+freedom
+pluralism
+dignity
+democracy
+liberty
+suffrage
+meritocracy
+feminism
+empowerment
+heterosexism
+lgbt
+diversity
+racial discrimination
+multiculturalism
+racism
+solidarity
+morality
+segregation
+unity
+homophobia
+injustice
+oppression
+bigotry
+sexism
+egality
+affirmative action
+civil rights
+enfranchisement
+minorities
+lesbians
+democratic
+ideals
+egalite
+human rights
+ableism
+upward mobility
+creed
+prosperity
+socialism
+secularism
+assimilationist
+colorblindness
+unequals
+primogeniture
+universal suffrage
+harmony
+patriarchy
+constitutionalism
+feminist movement
+democratization
+homosexuals
+universalism

@@ -23,3 +23,78 @@ broker
 accreditation
 contracting
 surrender
+currency
+convention
+patronage
+trader
+round
+compacting
+conventions
+coin
+mint
+designator
+horse-trading
+trade-off
+trade-union
+collective bargaining
+conciliation
+negations
+labor
+collective agreement
+counteroffer
+concessions
+picketing
+walkout
+wage freeze
+wage
+bargaining unit
+mediation
+uaw
+labor relations
+aftra
+nlrb
+dickering
+counterproposal
+strike
+arbitrator
+impasse
+unionization
+lockout
+seniority
+nupe
+arbitration
+mediator
+strikebreaking
+unionisation
+agreement
+grievance
+discussions
+ratification
+picket line
+nonunion
+deal
+metalworkers
+furloughs
+excessing
+coercion
+layoffs
+tripartite
+batna
+teamsters
+bargaining chip
+guild
+unionism
+aaup
+brinkmanship
+giveback
+parleys
+serb
+ilgwu
+featherbedding
+organized labor
+monopsony
+afl-cio
+sessional
+standoff
+escalator clause
+ultimatums

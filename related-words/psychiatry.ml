@@ -23,3 +23,78 @@ geriatrics
 neurosurgery
 pharmacology
 paediatrics
+preventive medicine
+gynecology
+endocrinology
+psychotherapy
+rheumatology
+obstetrics
+cardiology
+gastroenterology
+pathology
+epidemiology
+neurophysiology
+medicine
+dermatology
+emergency medicine
+gerontology
+clinical psychology
+ophthalmology
+oncology
+psychoanalytic
+psychobiology
+immunology
+neuropharmacology
+neurologist
+neonatology
+urology
+psychoanalysis
+otolaryngology
+radiology
+schizophrenia
+physician
+neuropathology
+medical
+outpatient
+molecular genetics
+psychiatrists
+major depressive episode
+clinical psychologist
+psychologist
+anaesthesiology
+developmental psychology
+iatry
+pediatric medicine
+chronobiology
+cognitive neuroscientist
+mental health
+internist
+neuroradiology
+geriatrician
+medical science
+cognitive neuroscience
+physiological psychology
+psychophysiology
+neuroanatomy
+field of study
+pediatrician
+karl menninger
+sexology
+neuro
+islamic law
+child psychology
+psychogenetics
+dentistry
+bioethics
+periodontics
+forensic pathology
+subspecialty
+sociologist
+anthropology
+neuroendocrinology
+play therapy
+nurse practitioner
+obstetrician
+abnormal psychology
+zoopsychology
+electrophysiology

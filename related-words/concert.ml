@@ -23,3 +23,78 @@ showcase
 entertainment
 harmony
 spectacles
+collaboration
+goer
+collaborating
+conjunction
+collaborated
+unison
+community
+set
+partnership
+synergy
+collaborate
+work
+joint
+consort
+dialogue
+whole
+collaborative
+rhythm
+coordinating
+cooperation
+covenant
+coherence
+accordance
+consultation
+agreement
+tandem
+cooperatively
+conspiracy
+combination
+working
+coordinate
+collusion
+coordination
+association
+decolonization
+parallel
+conclusion
+concertation
+privity
+connivance
+complementarity
+comity
+co-operation
+co-ordination
+consensus
+line
+philharmonic
+symphony orchestra
+band
+jazz festival
+preconcert
+pianist
+amphitheater
+gala
+opera
+soloist
+choir
+tour
+violinist
+bandshell
+jazz
+musicale
+cabaret
+string quartet
+concertgoers
+saengerfest
+dame kiri te kanawa
+musical performance
+musicians
+pinchas zukerman
+rehearsals
+curiosa
+encores
+event
+ca ira

@@ -23,3 +23,78 @@ excrement
 leeches
 vermin
 rodents
+grubs
+spiders
+feces
+caterpillars
+hookworms
+earwigs
+lice
+greenfly
+wasps
+botfly
+weevils
+daddy longlegs
+pinworms
+faeces
+rats
+ants
+ectoparasites
+bluebottles
+centipedes
+brown recluse spider
+whipworm
+tunicates
+houseflies
+silverfish
+foxtails
+crawdads
+carcasses
+snails
+chigger
+crickets
+gnats
+bugs
+bedbugs
+faecal matter
+tracheae
+cockroach
+fungus gnat
+beetles
+mealybugs
+mites
+sores
+wrigglers
+wireworms
+hirudo medicinalis
+scorpions
+mouthparts
+frass
+aphids
+spirochetes
+arachnids
+crustacea
+possums
+limburger cheese
+raccoons
+carpenter ant
+puss
+gulls
+pupae
+horseflies
+warty
+ruffe
+duckweed
+berley
+sclerotia
+barnacles
+itch mite
+moths
+fulmars
+midges
+sparrowhawk
+fecal matter
+tapeworm
+litterbox
+squid
+mosquitos

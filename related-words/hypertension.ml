@@ -23,3 +23,78 @@ asthma
 angina pectoris
 hyperglycemia
 sleep apnea
+preeclampsia
+hypothyroidism
+gout
+statin
+beta blocker
+hypoglycemia
+osteoporosis
+arteriosclerosis
+obesity
+systolic
+cirrhosis
+epilepsy
+nephropathy
+myocardial infarction
+hyperthyroidism
+migraine
+hypokalemia
+heart disease
+hyperlipidaemia
+hyperglycaemia
+diabetics
+cardiac insufficiency
+familial hypercholesterolemia
+triglycerides
+orthostatic hypotension
+prediabetes
+peptic ulcer
+rheumatoid arthritis
+proteinuria
+iron overload
+systemic lupus erythematosus
+temporal arteritis
+blood sugar
+antihypertensives
+hyperparathyroidism
+renal insufficiency
+liver disease
+syncope
+thyrotoxicosis
+allopurinol
+albuminuria
+intermittent claudication
+thiazide
+ischemic stroke
+valvular heart disease
+aldosterone
+angiotensin converting enzyme inhibitor
+gouty arthritis
+hypoxemia
+procardia
+rheumatic disease
+atopic eczema
+hypercalcemia
+psoriasis
+urinary incontinence
+erectile dysfunction
+postural hypotension
+mm hg
+schizophrenia
+thromboembolism
+lupus erythematosus
+venous thrombosis
+diastolic pressure
+benign prostatic hyperplasia
+hypoglycaemic
+spironolactone
+amenorrhoea
+hyperlipemia
+goitre
+periodontal disease
+rheumatoid
+thyroxine
+verapamil
+retinopathy
+systolic pressure

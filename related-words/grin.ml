@@ -23,3 +23,78 @@ chuckle
 scowl
 grimace
 giggle
+wink
+frown
+laughter
+guffaw
+sigh
+sneer
+hug
+stare
+snicker
+chortle
+twinkle
+rictus
+pout
+leer
+yawn
+facial expression
+smirker
+smilet
+smilingness
+simperer
+cheshire cat
+mustache
+boyish
+nictate
+cheeks
+laughsome
+nictation
+visage
+goatee
+kidder
+eyewink
+jokester
+bear hug
+palpebration
+nictitation
+belly laugh
+headshake
+sheepishness
+walrus mustache
+glout
+eyes
+quip
+demeanor
+mischievousness
+shoulders
+straw hat
+unlaugh
+sideburn
+galoot
+glint
+mohawk
+twire
+cackles
+snigger
+applause
+noogie
+beard
+whoop
+drawl
+wonderment
+bandy legs
+horselaugh
+dimples
+practical joker
+lantern jaw
+incredulousness
+bashfulness
+mien
+sobs
+ridibund
+cheers
+mustachio
+laughworthy
+schnoz
+outlaugh

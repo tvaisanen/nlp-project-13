@@ -23,3 +23,78 @@ cart
 train
 hike
 machine
+hog
+suburb
+headscarf
+mob
+mounted
+motto
+pique
+moe
+motion
+veil
+lifecycle
+mountain bike
+bmx
+trike
+minibike
+skateboard
+mtb
+bikers
+unicycle
+rider
+tricycle
+coaster brake
+motocross
+hardtail
+car
+rollerblade
+motor scooter
+kayak
+enduro
+wheeler
+dirt bike
+pedaler
+wheelie
+kart
+atv
+snowmobile
+segway
+triathlon
+velocipede
+pillion
+wheelset
+rickshaw
+velodrome
+handlebars
+cyclists
+mountain biking
+pedaling
+bicyclists
+skibob
+mountain biker
+lawnmower
+mower
+cannondale
+schwinn
+skis
+panniers
+vespa
+rollerblades
+lawn mower
+motorcyclists
+rollerblader
+snowboard
+stroller
+cadel
+awheel
+canoe
+surfboard
+skateboarders
+etape
+wheels
+boneshaker
+skid lid
+racers
+gruppo
+walker

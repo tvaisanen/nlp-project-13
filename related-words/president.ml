@@ -23,3 +23,78 @@ presidente
 chairmen
 convenor
 commissioner
+chaired
+minister
+dictator
+strongman
+principals
+counterpart
+presiding
+chairs
+republic
+gavel
+foreman
+mubarak
+issued
+yeltsin
+the
+fontaine
+madam
+sir
+bush
+clinton
+roh
+prime
+tao
+jiang
+santer
+chavez
+aznar
+barroso
+chairpersons
+ministro
+musharraf
+president-elect
+prodi
+vice-chairman
+vice-chancellor
+vice-president
+bute
+nicolas
+noh
+vice president
+executive
+treasurer
+secretary
+veep
+vice
+representative
+chancellor
+leadership
+ambassador
+inauguration
+appointee
+vice chancellor
+deputy
+mayor
+founder
+managing director
+prexy
+cofounder
+head honcho
+academic administrator
+regent
+member
+dean
+officer
+presidial
+honcho
+administrator
+chief of state
+minister of state
+exec
+prorector
+interrex
+boss
+trustee
+manager

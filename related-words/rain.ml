@@ -23,3 +23,78 @@ tropical
 drainage
 sprinkle
 waterproof
+cloud
+rainforest
+torrent
+drains
+barrage
+equatorial
+acidic
+pour
+shelter
+season
+frying
+acid
+outpouring
+flurry
+acids
+impermeable
+fallout
+charm
+sec
+precipitate
+fall-out
+stormwater
+woo
+sleet
+snow
+thundershower
+snowfall
+monsoon
+cloudburst
+sunshine
+fog
+snowstorm
+hailstorm
+plowable
+cold snap
+showers
+raindrops
+weather condition
+duststorm
+drenching
+frost
+thundery
+water cycle
+flurries
+rainwash
+droughtiness
+bucket down
+humidity
+dew
+storms
+deluges
+winds
+flooding
+mugginess
+northeaster
+atmospheric condition
+gusts
+soaker
+pour down
+northwester
+wetness
+drier
+puddles
+squalls
+moisture
+southeaster
+gales
+washout
+foggage
+rainout
+sea breeze
+temperatures
+showerful
+sogginess
+besnow

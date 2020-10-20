@@ -23,3 +23,78 @@ compliant
 stockpiling
 closing
 indias
+record-keeping
+simancas
+archivist
+crda
+discontinuing
+collection
+database
+library
+metadata
+trove
+microform
+microfiche
+bibliographic
+digitization
+ephemera
+compilation
+memorabilia
+retrieval
+museum
+upload
+microfilms
+terabytes
+cataloging
+treasure trove
+hardcopy
+fiche
+manuscripts
+petabyte
+indexing
+assentor
+movietone
+tapes
+microfilm
+quartos
+library catalog
+cinematize
+micrographics
+reprint
+discographies
+herbarium
+undelete
+oral history
+recordings
+bodleian
+diarize
+bibliotheke
+artifacts
+gigabytes
+unabridged
+unfile
+download
+webcast
+audio
+photomosaic
+summarizer
+digitise
+copies
+lewis carroll
+catalogues
+genizah
+posterity
+subscription
+microreader
+interlibrary loan
+embase
+storehouse
+bibliotheca
+cinematheque
+papyri
+bibliothec
+artefacts
+apod
+treasures
+card catalog
+gwyneth paltrow

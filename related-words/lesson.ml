@@ -23,3 +23,78 @@ experience
 school
 pedagogy
 schooling
+class
+way
+learnt
+education
+sermon
+apprenticeship
+science
+precept
+studied
+doctrine
+whack
+masterpiece
+study
+conclusion
+run
+couple
+assimilation
+module
+the
+tuition
+orthodoxy
+lxx
+xxxiv
+xxix
+learnings
+lix
+lxiv
+lxxiv
+lxxv
+lxxx
+lxxxiv
+lxxxv
+xciv
+xcv
+cours
+lxv
+xliv
+xlv
+xxxv
+tutor
+instructor
+curriculum
+workbook
+syllabus
+textbook
+beginner
+vocabulary
+language lesson
+refresher course
+lessons learned
+rudiments
+basics
+reminder
+refresher
+primer
+school assignment
+truism
+teachership
+tutorize
+schoolery
+parable
+axiom
+foreteach
+betutor
+hypnopaedia
+pep talk
+metaphor
+philomathic
+analogy
+maxims
+aphorism
+civics
+erudiate
+study hall
+course of study

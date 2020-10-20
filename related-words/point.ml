@@ -23,3 +23,78 @@ gunpoint
 pointedness
 sharpen
 detail
+guide
+orient
+dot
+head
+betoken
+taper
+repoint
+full stop
+breaker point
+compass point
+distributor point
+full point
+point in time
+power point
+bespeak
+juncture
+pointer
+pont
+moment
+goal
+end
+time
+contention
+bottom
+score
+standpoint
+mark
+scoring
+way
+decimal
+view
+conclusion
+angle
+perspective
+key
+close
+right
+stops
+height
+viewpoint
+one
+minute
+believe
+edge
+question
+say
+aspect
+thought
+thing
+focal
+facet
+paragraphs
+threshold
+advantage
+position
+reason
+look
+paragraph
+suggestion
+step
+argument
+finger
+going
+while
+context
+notion
+field
+line
+hand
+sense
+reasoning
+suggest
+day
+numerical
+post

@@ -23,3 +23,78 @@ depart
 split up
 split
 voice
+set forth
+break up
+set out
+fractional
+component part
+start out
+theatrical role
+element
+set off
+take off
+aspect
+facet
+linchpin
+integral
+involved
+participate
+chunk
+aspects
+participant
+step
+result
+participating
+included
+factor
+participation
+portions
+responsibility
+thing
+the
+involvement
+elements
+join
+place
+follows
+context
+engaged
+incorporate
+slice
+roles
+plank
+scope
+contribute
+dimension
+importance
+opportunity
+incorporated
+subject
+first
+addition
+one
+reason
+something
+pillar
+phase
+sections
+course
+extent
+ingredient
+inclusion
+much
+work
+pieces
+member
+fact
+form
+conjunction
+parcel
+bulk
+bit
+integrate
+integrated
+include
+signatory
+purpose
+components

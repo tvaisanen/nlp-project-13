@@ -23,3 +23,78 @@ notwithstanding
 except
 most
 thought
+more
+where
+while
+tho
+whether
+with
+conversely
+should
+about
+without
+well
+good
+for
+huh
+nice
+same
+right
+regardless
+instead
+through
+otherworldly
+whilst
+weigh
+via
+alternatively
+quite
+not
+hardly
+too
+actually
+because
+probably
+never
+surprisingly
+technically
+certainly
+indeed
+neither
+thankfully
+even so
+somewhat
+in any event
+pretty
+enough
+barely
+fairly
+scarcely
+in all likelihood
+in any case
+just
+perhaps
+much
+at any rate
+rarely
+almost
+strangely
+evidently
+terribly
+fortunately
+inasmuch as
+slightly
+somewise
+in no way
+longer
+far
+reasonably
+surely
+curiously
+either
+meanwhile
+noticeably
+remarkably
+initially
+frustratingly
+puzzlingly

@@ -23,3 +23,78 @@ comet
 andromeda galaxy
 asteroid
 meteor
+herschelian
+radio astronomer
+archaeologist
+biophysicist
+geophysicist
+oceanographer
+epsilon aurigae
+palaeontologist
+seismologist
+paleontologist
+geographer
+uranoscopy
+quasars
+glaciologist
+ufologist
+climatologist
+neurobiologist
+anthropologist
+egyptologist
+tycho brahe
+researcher
+earthshine
+archeologist
+volcanologist
+planets
+biologist
+ornithologist
+aurora
+neuroscientist
+uranography
+zoologist
+cosmic ray
+astrometry
+harlow shapley
+supernova
+eclipsing binary
+botanist
+biochemist
+pulsars
+historian
+percival lowell
+omega centauri
+crystallographer
+astrobiology
+cassini
+neutrino
+virologist
+geneticist
+carl friedrich gauss
+entomologist
+sociologist
+ecologist
+paleobotanist
+occultation
+uranian
+galaxies
+meteoritics
+molecular biologist
+cosmic microwave background
+hubble
+minor planet
+redshift
+cognitive neuroscientist
+principal investigator
+solar telescope
+vulcanologist
+theologian
+johannes kepler
+planetology
+geomagnetism
+axion
+themis
+relativity theory
+mineralogist
+meteoroid

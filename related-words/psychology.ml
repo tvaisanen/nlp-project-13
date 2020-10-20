@@ -23,3 +23,78 @@ self-restraint
 sociology
 anthropology
 psychobiology
+criminology
+neuroscience
+cultural anthropology
+neuropsychology
+kinesiology
+linguistics
+psychophysiology
+physiology
+neurobiology
+behavioral
+neurophysiology
+psychoanalysis
+biology
+science
+cognitive science
+psychopathology
+behavioural
+ethology
+psychoanalytic
+sociological
+zoopsychology
+developmental psychology
+physiological psychology
+cognitive psychology
+cognitive neuroscientist
+gestalt psychology
+economics
+gerontology
+biochemistry
+configurationism
+sociolinguistics
+cognitive neuroscience
+semiotics
+field of study
+islamic law
+professor
+primatology
+dietetics
+child psychology
+clinical psychologist
+mathematics
+middler
+sociologism
+psychonomics
+pharmacology
+comparative literature
+lecturer
+comtism
+experimental psychology
+associate professor
+theology
+doctorate
+humanities
+neuroanatomy
+zoology
+ergology
+sexology
+psychopharmacology
+neuropharmacology
+assistant professor
+minoring
+psycholinguistics
+behaviorism
+eudaemonics
+prelaw
+academic department
+abience
+adience
+play therapy
+freudian psychology
+dianoialogy
+mechanical engineering
+comparative anatomy
+clinical psychology
+scientific discipline

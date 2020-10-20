@@ -23,3 +23,78 @@ identity
 business
 undertaking
 enterprise
+operator
+firm
+persona
+component
+officer
+bodies
+society
+statehood
+substantive
+status
+player
+agent
+forum
+extent
+federalism
+personality
+thing
+unity
+organ
+managing
+body
+office
+charity
+department
+bloc
+subject
+party
+instance
+discretionary
+district
+whole
+magnitude
+moral
+principal
+actor
+focal
+organisation
+aunty
+embankment
+size
+perimeter
+scale
+doe
+overall
+physical
+seawall
+qian
+ens
+spe
+subsidiary
+entitative
+subchapter s corporation
+trusteeship
+de facto corporation
+fiefdom
+sole proprietorship
+interlocking directorate
+conglomeration
+transferor
+amalgamated
+proprietorships
+obligee
+grantor trust
+acquirer
+social unit
+instrumentality
+inter vivos trust
+administrative unit
+ethnocracy
+umbrella
+trustor
+conglomerate
+stakeholder
+ownership
+shareholding

@@ -23,3 +23,78 @@ darkroom
 analysis
 detection
 disinfectant
+workshop
+nrc
+containment
+pilot
+printing
+bench
+laboratoire
+laboratorio
+laboratorium
+triumf
+microbiology
+biosafety level
+biomedical
+scientific
+research
+molecular biologist
+pathology
+laborant
+radiochemistry
+research facility
+immunogenetics
+forensic
+experiments
+florence flask
+vivariums
+criminalistics
+parasitology
+immunohematology
+biodefence
+docimology
+virology
+analytical chemistry
+immunochemistry
+language laboratory
+bioassay
+molecular biology
+tomograph
+reagents
+nuclear magnetic resonance
+electron accelerator
+structural genomics
+nematology
+neuroendocrinology
+specimens
+diagnostics
+genetic fingerprinting
+neuropharmacology
+fermentor
+lyophilisation
+toxicology
+physics laboratory
+rheometer
+anechoic chamber
+histocompatibility
+teratology
+bacteriologist
+veterinary
+serologist
+biochemist
+microscopist
+iatrochemist
+culturing
+paramyxoviruses
+radiobiology
+cyclotron
+binocular microscope
+leptospira
+histopathology
+tissue culture
+chemistry lab
+docimastic
+institute
+bevatron
+olfactometer
+phytotron

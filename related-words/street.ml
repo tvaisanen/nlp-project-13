@@ -23,3 +23,78 @@ calle
 vagrancy
 curb
 door
+mob
+route
+vagrant
+block
+civic
+urban
+way
+municipal
+path
+strait
+resale
+artery
+itinerant
+ground
+chinatown
+trafficker
+postal
+stray
+bourse
+black
+portage
+stock
+diamond
+laurier
+suite
+cai
+guide
+rue
+strand
+impasse
+rua
+subdistrict
+sule
+tsai
+turn-off
+ucr
+figueroa
+notre
+pius
+alleyway
+downtown
+plaza
+roadway
+underpass
+midtown
+uptown
+esplanade
+crosswalk
+freeway
+avenida
+overpass
+streetward
+culdesac
+local road
+lombard street
+outstreet
+seventh avenue
+footpath
+ginnel
+bystreet
+jaywalk
+yellow line
+street corner
+tree lawn
+cul de sac
+city
+paseo
+storefronts
+main drag
+promenade
+paviage
+parking
+medians
+business district
+loiterers

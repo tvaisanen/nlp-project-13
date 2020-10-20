@@ -23,3 +23,78 @@ harriers
 len
 pecked
 ape
+dame
+babe
+tov
+girl
+bread
+octopus
+girlfriend
+girlie
+eggnog
+ry
+nice
+layer
+cowardly
+gossip
+bowl
+alie
+pool
+neck
+soccer
+spot
+clucker
+daha
+partlet
+broad
+pullet
+rooster
+cockerel
+quail
+rabbit
+henhouse
+pigeon
+mallard
+bird
+pig
+chook
+broiler
+henroost
+poult
+domestic fowl
+cock
+leghorn
+wagtails
+fox
+gallinacean
+chicks
+spring chicken
+egg laying
+chickens
+cornish
+broody hen
+drake
+tup
+stag
+australorp
+phoebe
+tom turkey
+wren
+ewe
+linnets
+turtledoves
+guinea fowl
+chickling
+baby bird
+blackbird
+phasianid
+piglet
+gosling
+chaffinches
+longbeard
+jackdaw
+killdeer
+budgie
+conure
+junco
+cowbird

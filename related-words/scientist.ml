@@ -23,3 +23,78 @@ sage
 clerics
 world
 alem
+finder
+ulema
+ulama
+scientifique
+ulemas
+physicist
+biologist
+geneticist
+biochemist
+molecular biologist
+microbiologist
+ecologist
+astronomer
+astrophysicist
+neuroscientist
+professor
+chemist
+climatologist
+biophysicist
+mathematician
+oceanographer
+zoologist
+anthropologist
+geophysicist
+virologist
+geologist
+neurobiologist
+boffin
+paleontologist
+sociologist
+botanist
+archaeologist
+cosmologist
+microscopist
+physiologist
+geographer
+natural scientist
+pharmacologist
+bacteriologist
+natural philosopher
+associate professor
+theorist
+entomologist
+research worker
+lecturer
+technologist
+limnologist
+assistant professor
+biotechnologist
+economist
+engineer
+glaciologist
+immunologist
+epidemiologist
+toxicologist
+historian
+palaeontologist
+taxonomist
+mycologist
+archeologist
+ethologist
+social scientist
+medical scientist
+crystallographer
+prof
+primatologist
+principal investigator
+hydrologist
+ornithologist
+statistician
+ichthyologist
+linguist
+herpetologist
+computational linguist
+cognitive neuroscientist

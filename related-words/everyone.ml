@@ -23,3 +23,78 @@ individual
 world
 skaters
 full
+pete
+general
+laughingstock
+worldwide
+gang
+todos
+proprietor
+tous
+alla
+alle
+aii
+no-one
+allen
+var
+somebody
+something
+whoever
+what
+that
+anyways
+they
+noone
+whatever
+whomever
+nothing
+thing
+no one
+them
+whenever
+everytime
+kids
+hey
+she
+guy
+kinda
+yeah
+lot
+heck
+ours
+way
+regardless
+in any case
+kind
+at any rate
+others
+fans
+rest
+muchwhat
+fun
+in any event
+guess
+pshaw
+arkin
+stuff
+whaddaya
+fellahs
+billie jean king
+goers
+gosh
+you bet
+kiddo
+him
+brazile
+hokeypokey
+kate winslet
+patrons
+lordy
+huh
+for some reason
+cramer
+this
+fella
+croud
+dammit
+unbirthday

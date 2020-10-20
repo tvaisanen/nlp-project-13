@@ -23,3 +23,78 @@ drive
 sustain
 convey
 beat
+grow
+engender
+suffer
+stimulate
+induce
+capture
+beget
+dumbfound
+acquire
+may
+incur
+trounce
+stupefy
+begin
+undergo
+cause
+puzzle
+flummox
+amaze
+pay back
+scram
+bewilder
+experience
+baffle
+commence
+perplex
+pay off
+father
+mystify
+arrest
+mother
+aim
+gravel
+contract
+set out
+buzz off
+bring forth
+bugger off
+nonplus
+set about
+start out
+stupify
+sire
+give
+know
+see
+going
+want
+keep
+deserve
+earn
+put
+grab
+think
+stay
+push
+gotta
+feel
+turn
+need
+garner
+pull
+realize
+provide
+happen
+collect
+send
+you
+reach
+enjoy
+qualify
+back
+try
+gonna
+deliver

@@ -23,3 +23,78 @@ oxygen
 co2
 altitude
 earth
+troposphere
+climatic
+ozone
+backdrop
+sense
+weather
+sentiment
+sphere
+setting
+sky
+vent
+context
+background
+meteorology
+layer
+airspace
+meteorological
+aria
+hemisphere
+midair
+lifetime
+ambit
+airborne
+amateur
+flavour
+joe
+stack
+airshed
+mid-air
+airforce
+cover
+hydrosphere
+atmospherics
+warmth
+mesosphere
+exosphere
+milieu
+atmospherology
+solar constant
+geocorona
+stratopause
+anacoustic
+nonaerobiotic
+corposant
+ice point
+aeroscopy
+camaraderie
+dasymeter
+conviviality
+ice needle
+sympiesometer
+atmos
+surroundings
+attitude
+environs
+astrometeorology
+excitement
+cloud chamber
+spectacle
+pressure cooker
+gases
+glow
+demeanor
+bedlam
+aroma
+carbon dioxide
+hydrospace
+exothermic reaction
+quietness
+gemutlich
+astrosphere
+aerostatics
+joviality
+oasis
+raucousness

@@ -23,3 +23,78 @@ exit
 return
 offspring
 proceeds
+bring out
+progeny
+way out
+put out
+takings
+come forth
+government issue
+military issue
+write out
+come out
+emerge
+make out
+problem
+matters
+dilemma
+question
+concerns
+concern
+debate
+controversy
+topics
+problems
+disagreement
+situation
+case
+aspect
+dispute
+questions
+factor
+discussion
+agenda
+problematic
+crisis
+challenge
+addressed
+challenges
+facet
+possibility
+importance
+argument
+thing
+corrigendum
+item
+conflict
+discussed
+fact
+regard
+published
+component
+element
+incident
+context
+decision
+reason
+phenomenon
+aspects
+task
+problematical
+consideration
+concerned
+regards
+talk
+granting
+idea
+focus
+discuss
+themes
+address
+dealt
+notion
+subjects
+adjournment
+story
+need
+litigation
