@@ -1,4 +1,5 @@
 venv
 demo-app
 datasets/glove.6B
+datasets/google
 __pycache__
