@@ -1,0 +1,2 @@
+,Datamuse 25,word2vec (google news),Golve 50d,FastText (wiki news),Yago concept similarity
+Correlation with human judgement,0.72,0.77,0.66,0.73,0.64
