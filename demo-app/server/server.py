@@ -22,7 +22,7 @@ def foo():
             line in 
             file]
         return jsonify(dict(
-            labels=file_data[0],
+            labels=[l for l in file_data[0] if l != ""],
             data=file_data[1:]
         ))
 
